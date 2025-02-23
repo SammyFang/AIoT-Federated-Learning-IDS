@@ -56,7 +56,6 @@ Non-IID Partitioning: Uses Dirichlet distribution for heterogeneous data distrib
 
 ## 🏆**Training Curves**
 The CFMT framework consistently outperformed baseline FL methods by effectively handling class imbalance and non-IID data, resulting in higher F1-Scores and AUC values.
-![image](https://github.com/user-attachments/assets/494e9dce-2e96-4b93-8020-2ab6740021b5)
 ![image](https://github.com/user-attachments/assets/219368c8-bccc-4325-93f1-addd768e603e)
 ![image](https://github.com/user-attachments/assets/621f7797-052e-41c9-8950-d01157ae772f)
 
